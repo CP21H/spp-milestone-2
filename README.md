@@ -1,6 +1,6 @@
 # Student Proud Project, Milestone 2
 
-This project implements and evaluates two Deep Learning (DL) models—**VGG-16 Standalone** and **Hybrid VGG-16 + XGBoost**—to classify kidney CT scan images into four categories: Normal, Cyst, Stone, and Tumor. The goal is to replicate and exceed the performance benchmarks from the reference paper, **Enhanced Automatic Identification of Kidney Cyst, Stone and Tumor using Deep Learning.**
+This project implements and evaluates two Deep Learning (DL) models—**VGG-16 Standalone** and **Hybrid VGG-16 + XGBoost**—to classify kidney CT scan images into four categories: Normal, Cyst, Stone, and Tumor. The goal is to replicate and exceed the performance benchmarks from the reference paper, **[Enhanced Automatic Identification of Kidney Cyst, Stone and Tumor using Deep Learning](https://ieeexplore.ieee.org/document/10617000).**
 
 ## 1. Project Overview
 
